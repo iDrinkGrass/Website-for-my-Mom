@@ -2,3 +2,6 @@ body {
 font-family: system-ui;
 background-color: #f4f4f4;
 }
+.container {
+display: flex;
+}
