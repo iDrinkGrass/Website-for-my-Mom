@@ -15,4 +15,3 @@ Hello, this is a website that I made for my mom and the Hack Club Stardance chal
   
  
  Sorry if its bad :sob:
- btw I didn't host it becuase she is going to host it herself.
